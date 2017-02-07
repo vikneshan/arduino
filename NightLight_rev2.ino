@@ -1,5 +1,5 @@
 /*
-http://vikneshan.blogspot.com/2017/01/led-night-light-with-arduino.html
+http://vikneshan.blogspot.com/2017/02/led-night-light-with-arduino.html
 https://www.arduino.cc/en/Tutorial/Fade
 https://learn.adafruit.com/photocells/using-a-photocell
 https://www.arduino.cc/en/Reference/Random
